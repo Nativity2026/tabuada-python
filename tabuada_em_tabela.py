@@ -1,4 +1,4 @@
-print("============ Tabela da Tabuada 2 ===========")
+print("============ Tabela da Tabuada  ============")
 
 # Cabeçalho
 print("    ", end="")
@@ -13,4 +13,4 @@ for i in range(1, 11):
         print(f"{i*j:4}", end="")  # resultado formatado em 4 espaços
     print()  # quebra de linha
 
-print("============= Fim da Tabela 2 ==============")
+print("============= Fim da Tabela  ===============")
